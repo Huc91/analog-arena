@@ -8,7 +8,7 @@ import twitter from "../img/social/twitter.svg";
 import vimeo from "../img/social/vimeo.svg";
 
 const Footer = () => {
-  
+
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
@@ -35,13 +35,8 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
                       <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
+                        Form-Examples
                       </Link>
                     </li>
                     <li>
