@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: The Analogue Arena
-image: /img/dall·e-2023-02-07-11.41.48-videogame-consoles-crt-tv-videogame-cases-boxes-in-an-airbrush-paiting-style.png
+image: /img/cover.png
 heading: The Analogue Arena
 subheading: Niche gaming since 1991
 mainpitch:
