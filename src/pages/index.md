@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: The Analogue Arena
-image: /img/home-jumbotron.jpg
+image: /img/dall·e-2023-02-07-11.41.48-videogame-consoles-crt-tv-videogame-cases-boxes-in-an-airbrush-paiting-style.png
 heading: The Analogue Arena
 subheading: Niche gaming since 1991
 mainpitch:
@@ -11,11 +11,10 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
