@@ -43,7 +43,7 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          'gatsby-remark-relative-images',
+          "gatsby-remark-relative-images",
           {
             resolve: "gatsby-remark-images",
             options: {
@@ -57,6 +57,12 @@ module.exports = {
             resolve: "gatsby-remark-copy-linked-files",
             options: {
               destinationDir: "static",
+            },
+          },
+          {
+            resolve: `gatsby-plugin-google-adsense`,
+            options: {
+              publisherId: `ca-pub-3518274030390186`,
             },
           },
         ],
