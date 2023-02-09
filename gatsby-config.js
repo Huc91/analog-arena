@@ -1,11 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "The Analog Arena",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "The Analog Arena is an unconventional go-to destination for all things gaming. Our blog is dedicated also to the art of collecting and offers valuable tips and tricks for collectors, including hidden gaming gems, niche games, and retrogaming treasures.",
+    siteUrl: `https://theanalogarena.com/`,
   },
   plugins: [
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-sitemap",
     {
       resolve: "gatsby-plugin-sass",
       options: {
