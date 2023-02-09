@@ -14,13 +14,11 @@ Nintendo Switch has been one of the most successful video game consoles of all t
 
 ![hollow knight](/img/apps.24270.13847644057609868.a4a91f76-8d1c-4e19-aa78-f4d27d2818fb.jpeg)
 
-
 Hollow Knight is a beautifully crafted action-adventure game set in a hauntingly atmospheric world. You play as a small knight on a quest to uncover the secrets of the fallen kingdom of Hallownest. The game is known for its challenging gameplay, memorable boss fights, and stunning hand-drawn graphics.
 
 **Celeste**  
 
 ![celeste](/img/08.png)
-
 
 Celeste is a critically acclaimed platformer that’s both challenging and heartwarming. You play as Madeline, a young woman who’s climbing a dangerous mountain in an attempt to overcome her inner demons. The game’s tight controls, charming characters, and thought-provoking storyline make it a must-play for any fan of the genre.
 
@@ -35,13 +33,11 @@ Slay the Spire is a unique blend of deck-building and roguelike gameplay that’
 
 ![Katana zero](/img/h2x1_nswitchds_katanazero.jpg)
 
-
 Katana ZERO is a fast-paced action game that’s as stylish as it is challenging. You play as a samurai assassin who must navigate through a series of deadly missions, making split-second decisions that can change the outcome of each level. The game’s stylish visuals and intense gameplay make it a must-play for action fans.
 
 **Dead Cells**  
 
 ![Dead cells](/img/egs-deadcells-motiontwin-s1-2560x1440-312502186.jpg)
-
 
 Dead Cells is a challenging and addictive roguelike game that’s easy to pick up and hard to put down. You play as a sentient pile of cells that must explore a constantly evolving castle filled with deadly enemies and challenging obstacles. The game’s tight controls and rewarding progression system make it a must-play for fans of the genre. Nintendo announced yesterday the [new DLC Return to Castlevania](https://www.youtube.com/watch?v=Py8Z6vfCMMg) (!!!) So you have Dead Cells + Castlevania in a single game...incredible, I can't wait to play it.
 
@@ -49,20 +45,17 @@ Dead Cells is a challenging and addictive roguelike game that’s easy to pick u
 
 ![Shovel Knight](/img/gioco-steam-shovel-knight-treasure-trove-cover.webp)
 
-
 Shovel Knight: Treasure Trove is a charming retro-style platformer that’s been updated for modern audiences. You play as the titular Shovel Knight, who must navigate through a series of challenging levels filled with enemies, traps, and treasure. The game’s memorable characters, challenging gameplay, and catchy soundtrack make it a must-play for fans of the genre.
 
 **Wargroove**  
 
 ![Wargroove](/img/wargroove-review-2.jpg)
 
-
 Wargroove is a turn-based strategy game that’s perfect for fans of Advance Wars. You play as one of several commanders, each with their own unique abilities and playstyle, who must lead their armies to victory on the battlefield. The game’s deep mechanics and challenging AI make it a must-play for fans of the genre.
 
 **Axiom Verge**  
 
 ![Axiom Verge](/img/59127176ae653acc0731779e.jpeg)
-
 
 Axiom Verge is a retro-style action-adventure game that’s reminiscent of classic games like Metroid and Castlevania. You play as a scientist who wakes up in a strange world filled with dangerous creatures and mysterious technology. The game’s tight controls, thought-provoking storyline, and challenging gameplay make it a must-play for fans
 
@@ -77,7 +70,8 @@ Into the Breach is a turn-based strategy game that tasks players with defending 
 
 ![SteamWorld](/img/maxresdefault.jpg)
 
-
 SteamWorld Quest: Hand of Gilgamech is a turn-based RPG that’s set in a steam-powered world filled with robots and magic. You play as a group of heroes who must embark on a quest to save the world from a mysterious threat. The game’s colorful visuals, interesting characters, and challenging battles make it a must-play for fans of RPGs.
+
+
 
 These 10 Nintendo Switch hidden gems are just a few of the many great games available on the platform. Whether you’re a fan of action-adventure games, platformers, RPGs, or strategy games, there’s something for everyone on the Nintendo Switch. So why not take a break from the big-name games and give these hidden gems a try? You never know, you might just find your new favorite game.
