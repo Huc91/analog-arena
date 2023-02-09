@@ -6,6 +6,8 @@ date: 2023-02-07T14:08:04.695Z
 description: Review
 featuredpost: true
 featuredimage: /img/kalas-in-baten-kaitos-eternal-wings-and-the-lost-ocean.jpg
+tags:
+  - review
 ---
 I have a knack for card based games, digital an physical does not matter: Magic The Gathering, Slay The Spire, Dominion, Keyforge, LOTR LCG, Netrunner, and so on (you name it I've played it). 
 Recently I decide to expand my mania and start collecting retro videogames where the gamemplay was mainly card based.  
