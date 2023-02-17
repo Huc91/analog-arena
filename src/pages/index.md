@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: The Analogue Arena
-image: /img/cover.png
+image: /img/wallpaper.jpg
 heading: The Analogue Arena
 subheading: Niche gaming since 1991
 mainpitch:
