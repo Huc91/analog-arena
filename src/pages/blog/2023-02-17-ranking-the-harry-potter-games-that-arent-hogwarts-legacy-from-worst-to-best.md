@@ -40,4 +40,8 @@ The third game in the series, Prisoner of Azkaban, was a huge improvement over i
 
 The best Harry Potter game (before Hogwarts Legacy, of course) was definitely Order of Phoenix. The open-world approach to Hogwarts was a game-changer and the expanded RPG mechanics made the game feel more immersive. The graphics were great for the time and the story was on point.
 
-In conclusion, while some of the Harry Potter games were total letdowns, there were a few gems out there. With the highly anticipated release of Hogwarts Legacy on Nintendo Switch and PlayStation 5, we are diving into the wizarding world once again!
+In conclusion, while some of the Harry Potter games were total letdowns, there were a few gems out there. With the highly anticipated release of Hogwarts Legacy on Nintendo Switch and PlayStation 5, we are diving into the wizarding world once again!\
+\
+[You can buy the Switch version here](https://amzn.to/3k2301S)\
+\
+[T﻿his is the PS5 one](https://amzn.to/3lKqM3b)
